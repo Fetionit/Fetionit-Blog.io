@@ -102,6 +102,6 @@ theme: hexo-theme-stellar
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Fetionit/Feionit-s-Blog.git
+  repo: https://github.com/Fetionit/Fetionit-Blog.io.git
   branch: main
   message: " develop Hexo Blog "
